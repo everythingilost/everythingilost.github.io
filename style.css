@@ -1,4 +1,4 @@
-/************************************
+/***************httpshttps*********************
     File Name: style.css
     Template Name: Back to Rock
     Created By: Similar Icons
@@ -513,7 +513,7 @@ SECTION
 .customtitle {
     padding: 30px 25px 25px;
     position: absolute;
-    background: #867461 url("images/gr.png") repeat scroll center center !important;
+    background: #252730 url("images/gr.png") repeat scroll center center !important;
     bottom: -25px;
     top: auto;
     border: 3px solid #070a0a !important;
@@ -1340,18 +1340,18 @@ COLORS
 .owl-theme .owl-nav [class*="owl-"],
 .section.cb {
     color: #ffffff;
-    background: #867461;
-    border-color: #867461;
+    background: #252730;
+    border-color: #252730;
 }
 
 .navbar-default .navbar-toggle,
 .sm2-bar-ui .sm2-inline-status {
     color: #ffffff !important;
-    background-color: #867461 !important;
+    background-color: #252730 !important;
 }
 .contact-widget hr,
 .pagination > li > a {
-    border-color: #867461;
+    border-color: #252730;
 }
 
 .comments .text-success,
@@ -1362,7 +1362,7 @@ a,
 .section-title h2 i,
 .blog-title h3:hover a,
 .readmore {
-    color: #867461;
+    color: #252730;
 }
 .pagination > li > a:hover, .pagination > li > span:hover,
 .pagination > li > a:focus, .pagination > li > span:focus,
@@ -1371,14 +1371,14 @@ a,
 .shop-meta small.pull-left,
 .btn-primary:hover,
 .btn-primary:focus {
-    background: #6d5f47;
+    background: #252730;
     color: #ffffff;
-    border-color: #6d5f47;
+    border-color: #252730;
 }
 .whitetext,
 a:focus,
 a:hover {
-    color: #6d5f47;
+    color: #252730;
 }
 
 .sm2-bar-ui.fixed .bd.sm2-playlist-drawer,
@@ -1396,7 +1396,7 @@ a:hover {
 .sm2-bar-ui .sm2-inline-button:focus,
 .sm2-bar-ui .sm2-playlist-wrapper {
     opacity: 1;
-    background-color: #6d5f47 !important;
+    background-color: #252730 !important;
 }
 
 
